@@ -19,3 +19,9 @@ Work Experience:
 *Tech Dynamics*, Silicon Valley, USA - June 2020 - March 2021
 - Development and implementation of test scenarios to ensure high-quality products.
 - Participation in documentation and requirements analysis, collaboration with the development team.
+
+Skills:
+- Programming in Java, Python.
+- Software testing and debugging.
+- Proficient in JIRA, Selenium, Git.
+- Fluent in English.
